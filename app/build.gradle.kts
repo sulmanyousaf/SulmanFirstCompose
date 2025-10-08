@@ -78,6 +78,11 @@ dependencies {
     implementation(libs.hilt.navigation.compose)
     implementation(libs.hilt.work)
 
+    // Room
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+    ksp(libs.room.compiler)
+
     // Retrofit & OkHttp
     implementation(libs.retrofit)
     implementation(libs.retrofit.kotlin.serialization)
