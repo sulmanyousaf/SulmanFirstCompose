@@ -316,13 +316,13 @@
 167-->[androidx.compose.ui:ui-test-manifest:1.9.2] /Users/sulman/.gradle/caches/8.14.3/transforms/1e2485f569a02eb968462f198a7caaa9/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:26:13-76
 168
 169        <service
-169-->[androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+169-->[androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
 170            android:name="androidx.room.MultiInstanceInvalidationService"
-170-->[androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+170-->[androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:25:13-74
 171            android:directBootAware="true"
-171-->[androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+171-->[androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:26:13-43
 172            android:exported="false" />
-172-->[androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+172-->[androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:27:13-37
 173
 174        <receiver
 174-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e41371d3b713e01b3b84b5fea65143c7/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20

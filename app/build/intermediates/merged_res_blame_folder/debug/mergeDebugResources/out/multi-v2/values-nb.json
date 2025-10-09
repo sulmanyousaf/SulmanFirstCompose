@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.applico.sulmanfirstcompose.app-mergeDebugResources-57:/values-nb/values-nb.xml",
+            "outputFile": "com.applico.sulmanfirstcompose.app-mergeDebugResources-54:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/Users/sulman/.gradle/caches/8.14.3/transforms/c6682ee361acf94c469b9f3e37b37e02/transformed/foundation-release/res/values-nb/values-nb.xml",

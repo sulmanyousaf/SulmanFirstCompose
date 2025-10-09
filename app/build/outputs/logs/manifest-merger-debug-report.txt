@@ -74,16 +74,16 @@ MERGED from [androidx.activity:activity:1.11.0] /Users/sulman/.gradle/caches/8.1
 MERGED from [androidx.activity:activity-compose:1.11.0] /Users/sulman/.gradle/caches/8.14.3/transforms/5e7318681764ebbbd8cf66a9c5287329/transformed/activity-compose-1.11.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/4f7495a18ebd3dc85b8e58f7c8987a1f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.core:core-ktx:1.17.0] /Users/sulman/.gradle/caches/8.14.3/transforms/a10f95fade0ef46b25550af65deac918/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e4cfb1658b8fe0d6f1487c5472931410/transformed/room-ktx-2.8.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/bcc8b046bd374df6597a10afa0c51fc7/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/fe7ad0bf3f1875c2186ece8ee1c1088c/transformed/datastore-preferences-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/facd04ba68a4c14cb14d1f89e234294e/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/e35883f32834b8fe3e040824b2e587cc/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.room:room-ktx:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/4d01297e6fdc746889285e57650610e1/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/sulman/.gradle/caches/8.14.3/transforms/ea77d8bc30c2990a73f75db1d7d690d6/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.squareup.okhttp3:okhttp-android:5.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/be7376f04a170163b1b485ec881eb908/transformed/okhttp-release/AndroidManifest.xml:2:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/dc5c5dbe6b2ecc7672bef04d845b3332/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/94e69135cf7d4c032f43c6e0b7dd98ef/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/sulman/.gradle/caches/8.14.3/transforms/f221763b3e6610651ceccc9fa7eae7ba/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e41371d3b713e01b3b84b5fea65143c7/transformed/profileinstaller-1.4.1/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/c2d584a83f286dac4ec4807b3db5c998/transformed/startup-runtime-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.tracing:tracing:1.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/2ee6ad7b8c37a5358c8d3bd03dde4a08/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
@@ -91,8 +91,8 @@ MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/sulman/.gradle/caches/8.
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/0a1c0f5bfbbe75ca1c3fecfc35a83704/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sulman/.gradle/caches/8.14.3/transforms/4f00b4bf87106db906b3f4248685037a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/aec05eee8b08556683939d0d2db9e86e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/0cc1db952ad07df65e6e362dfd7875f3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/15d0b95b4f93bab60dca04198540f94d/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/3955a6c7f1c8c06baf64003137b237e4/transformed/sqlite-framework/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/9c59e6447c3ed3947b07abca97a4d47c/transformed/sqlite/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/f675804962da8ca742f78b9c949f813c/transformed/exifinterface-1.4.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.57.2] /Users/sulman/.gradle/caches/8.14.3/transforms/dcc8591191f390300f0ee15dd54cbce9/transformed/dagger-lint-aar-2.57.2/AndroidManifest.xml:16:1-19:12
 	package
@@ -132,8 +132,8 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/sulman/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/sulman/.gradle/caches/8.14.3/transforms/5f76e93d4e79b2f8523f09bae19b8de8/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/sulman/.gradle/caches/8.14.3/transforms/1e2485f569a02eb968462f198a7caaa9/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/sulman/.gradle/caches/8.14.3/transforms/1e2485f569a02eb968462f198a7caaa9/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
-MERGED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
-MERGED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
 MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/sulman/.gradle/caches/8.14.3/transforms/ea77d8bc30c2990a73f75db1d7d690d6/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/sulman/.gradle/caches/8.14.3/transforms/ea77d8bc30c2990a73f75db1d7d690d6/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.squareup.okhttp3:okhttp-android:5.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/be7376f04a170163b1b485ec881eb908/transformed/okhttp-release/AndroidManifest.xml:10:5-20:19
@@ -328,6 +328,10 @@ MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sulma
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/4f7495a18ebd3dc85b8e58f7c8987a1f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.core:core-ktx:1.17.0] /Users/sulman/.gradle/caches/8.14.3/transforms/a10f95fade0ef46b25550af65deac918/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.17.0] /Users/sulman/.gradle/caches/8.14.3/transforms/a10f95fade0ef46b25550af65deac918/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e4cfb1658b8fe0d6f1487c5472931410/transformed/room-ktx-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e4cfb1658b8fe0d6f1487c5472931410/transformed/room-ktx-2.8.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/bcc8b046bd374df6597a10afa0c51fc7/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/bcc8b046bd374df6597a10afa0c51fc7/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/fe7ad0bf3f1875c2186ece8ee1c1088c/transformed/datastore-preferences-core-release/AndroidManifest.xml:5:5-44
@@ -336,18 +340,14 @@ MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/sulman/.gradle/c
 MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/facd04ba68a4c14cb14d1f89e234294e/transformed/datastore-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/e35883f32834b8fe3e040824b2e587cc/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/sulman/.gradle/caches/8.14.3/transforms/e35883f32834b8fe3e040824b2e587cc/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.room:room-ktx:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/4d01297e6fdc746889285e57650610e1/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-ktx:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/4d01297e6fdc746889285e57650610e1/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/sulman/.gradle/caches/8.14.3/transforms/ea77d8bc30c2990a73f75db1d7d690d6/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/sulman/.gradle/caches/8.14.3/transforms/ea77d8bc30c2990a73f75db1d7d690d6/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.okhttp3:okhttp-android:5.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/be7376f04a170163b1b485ec881eb908/transformed/okhttp-release/AndroidManifest.xml:6:5-44
 MERGED from [com.squareup.okhttp3:okhttp-android:5.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/be7376f04a170163b1b485ec881eb908/transformed/okhttp-release/AndroidManifest.xml:6:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/dc5c5dbe6b2ecc7672bef04d845b3332/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/dc5c5dbe6b2ecc7672bef04d845b3332/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/94e69135cf7d4c032f43c6e0b7dd98ef/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/sulman/.gradle/caches/8.14.3/transforms/94e69135cf7d4c032f43c6e0b7dd98ef/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/sulman/.gradle/caches/8.14.3/transforms/f221763b3e6610651ceccc9fa7eae7ba/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/sulman/.gradle/caches/8.14.3/transforms/f221763b3e6610651ceccc9fa7eae7ba/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e41371d3b713e01b3b84b5fea65143c7/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e41371d3b713e01b3b84b5fea65143c7/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/c2d584a83f286dac4ec4807b3db5c998/transformed/startup-runtime-1.2.0/AndroidManifest.xml:21:5-44
@@ -362,10 +362,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sulm
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sulman/.gradle/caches/8.14.3/transforms/4f00b4bf87106db906b3f4248685037a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/aec05eee8b08556683939d0d2db9e86e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/aec05eee8b08556683939d0d2db9e86e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/0cc1db952ad07df65e6e362dfd7875f3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/0cc1db952ad07df65e6e362dfd7875f3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/15d0b95b4f93bab60dca04198540f94d/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/sulman/.gradle/caches/8.14.3/transforms/15d0b95b4f93bab60dca04198540f94d/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/3955a6c7f1c8c06baf64003137b237e4/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/3955a6c7f1c8c06baf64003137b237e4/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/9c59e6447c3ed3947b07abca97a4d47c/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/9c59e6447c3ed3947b07abca97a4d47c/transformed/sqlite/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/f675804962da8ca742f78b9c949f813c/transformed/exifinterface-1.4.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/sulman/.gradle/caches/8.14.3/transforms/f675804962da8ca742f78b9c949f813c/transformed/exifinterface-1.4.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.dagger:dagger-lint-aar:2.57.2] /Users/sulman/.gradle/caches/8.14.3/transforms/dcc8591191f390300f0ee15dd54cbce9/transformed/dagger-lint-aar-2.57.2/AndroidManifest.xml:18:3-42
@@ -661,15 +661,15 @@ ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/sulman/.gradle/ca
 	android:name
 		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/sulman/.gradle/caches/8.14.3/transforms/1e2485f569a02eb968462f198a7caaa9/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:24:13-63
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:27:13-37
 	tools:ignore
-		ADDED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:28:13-60
 	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:26:13-43
 	android:name
-		ADDED from [androidx.room:room-runtime:2.6.1] /Users/sulman/.gradle/caches/8.14.3/transforms/a06eea2f978fca0671b9e0256f977fdd/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/sulman/.gradle/caches/8.14.3/transforms/e5db956ff2af20417ad4ae9115daf919/transformed/room-runtime/AndroidManifest.xml:25:13-74
 meta-data#okhttp3.internal.platform.PlatformInitializer
 ADDED from [com.squareup.okhttp3:okhttp-android:5.2.0] /Users/sulman/.gradle/caches/8.14.3/transforms/be7376f04a170163b1b485ec881eb908/transformed/okhttp-release/AndroidManifest.xml:16:13-18:52
 	android:value
