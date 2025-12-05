@@ -35,7 +35,7 @@ data class AppTextColors(
 // --- Light Theme Custom Colors ---
 val LightAppTextColors = AppTextColors(
     // Primary Text
-    body = OwnBlack,
+    body = OwnWhite,
     headline = Purple40,
     // Custom Text Slot
     subheading = LightSubheading,
@@ -48,7 +48,7 @@ val LightAppTextColors = AppTextColors(
 // --- Dark Theme Custom Colors ---
 val DarkAppTextColors = AppTextColors(
     // Primary Text
-    body = OwnWhite,
+    body = OwnBlack,
     headline = Purple80,
     // Custom Text Slot
     subheading = DarkSubheading,
